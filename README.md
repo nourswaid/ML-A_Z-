@@ -104,3 +104,9 @@ The notebooks contain the step-by-step implementation, while the Python files pr
 * Jupyter Notebook / Google Colab
 
 ## Purpose
+
+This repository serves as a personal learning and reference collection for machine learning.
+
+The implementations are based on course exercises and are intended to document my learning process rather than represent standalone original projects.
+
+More independent and end-to-end projects are maintained separately in my portfolio.
